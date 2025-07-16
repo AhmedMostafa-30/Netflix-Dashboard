@@ -40,7 +40,7 @@ The dashboard is fully interactive
 - *Drama* is the most common genre on Netflix
 - 🇺🇸 The USA and 🇮🇳 India lead in content production
 - There's been a huge increase in releases from 2017 onwards
-- "TV-MA" and "TV-14" are the most frequent ratings
+- "Adult Only " and "Teens +18" are the most frequent ratings
 
 ---- 
 
@@ -52,7 +52,8 @@ The data comes from [this Netflix dataset on Kaggle](https://www.kaggle.com/data
 
 - Dashboard Preview
 
-![Netflix Dashboard](https://github.com/AmirElsayed117/Netflix-Dashboard/blob/main/NetFlix_Overview.png)
+![Netflix Dashboard](https://github.com/AhmedMostafa-30/Netflix-Dashboard/blob/main/Overview.png)
+![Netflix Dashboard](https://github.com/AhmedMostafa-30/Netflix-Dashboard/blob/main/Details.png)
 
 
 
